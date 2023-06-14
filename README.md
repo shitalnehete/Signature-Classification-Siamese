@@ -17,6 +17,4 @@ To use the trained Siamese Network for signature classification, you can provide
 
 Please refer to the documentation and code provided in this repository for detailed instructions on setting up the environment, training the model, and using it for signature classification.
 
-## Acknowledgments
-This project is based on the Siamese Network architecture and utilizes pre-trained MobileNet models. The implementation builds upon existing research and open-source contributions in the field of one-shot learning and deep neural networks.
 
