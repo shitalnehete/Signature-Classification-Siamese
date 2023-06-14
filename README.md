@@ -1,4 +1,4 @@
-## Siamese Network for Signature Classification
+# Siamese Network for Signature Classification
 This repository contains an adapted implementation of a Siamese Network for one-shot learning, specifically designed for the classification of signatures using two input images. The model is built using two pre-trained MobileNet models with shared weights.
 
 ## Background
